@@ -8,7 +8,7 @@ This project serves as my assessment submission to EOH Digital Platoon, as reque
 
 **Note:** The script makes use of `curl` and `jq`. It is advisable that you have these installed when making use of the `app.sh` script. Also, this is a bash script, so you will be out of luck on a vanilla Windows PC. A Mac or Linux PC is recommended. However, if you are running Windows without the Windows Subsystem for Linux, you might want to stick to the regular maven commands.
 
-The script wraps all commands you might want to use. Running `./app.sh` on the command line prints some handy help instruction. Here is a sample:
+The script wraps all commands you might want to use. Running `./app.sh` on the command line prints some handy help instructions. Here is a sample:
 
 ```bash
 $ ./app.sh
