@@ -1,0 +1,20 @@
+{
+    "id": null,
+    "client": "ABC",
+    "vatRate": 15.0,
+    "invoiceDate": null,
+    "lineItems": [
+        {
+            "id": null,
+            "quantity": 4,
+            "description": "Item 1",
+            "unitPrice": 12.75
+        },
+        {
+            "id": null,
+            "quantity": 3,
+            "description": "Item 2",
+            "unitPrice": 59.95
+        }
+    ]
+}
