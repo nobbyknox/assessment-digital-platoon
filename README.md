@@ -62,7 +62,7 @@ An H2 console has also been provided. Point your browser to http://127.0.0.1:808
 
 ## How This Problem Was Solved
 
-1. I started at `https://start.spring.io` and generate a skeleton app
+1. I started at `https://start.spring.io` and generated a skeleton app
 1. Configured database in `application.properties`
 1. Created REST controllers
 1. Created entities and their unit tests
